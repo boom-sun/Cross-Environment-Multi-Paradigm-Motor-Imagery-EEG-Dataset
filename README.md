@@ -1,0 +1,2 @@
+# Cross-Environment-Multi-Paradigm-Motor-Imagery-EEG-Dataset
+This repository contains the codebase associated with the dataset described in our paper:  Cross-environment multi-paradigm motor imagery EEG dataset.  The code was developed during data analysis, and preliminary experiments. This repository contains a broader set of experimental and development code than what is strictly used in the paper.
